@@ -15,3 +15,10 @@ time. Currently supported things include:
 
 A single codebase with dependencies on only the standard python library is
 compatible across Python 2.6, 2.7, and 3.2+, as well as with PyPy 1.8+.
+
+
+Unit tests
+==========
+
+python -m unittest discover
+python3 -m unittest discover
